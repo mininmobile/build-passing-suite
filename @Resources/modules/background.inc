@@ -11,7 +11,7 @@ updateDivider = -1
 measure = calc
 ifCondition = #automove# = 1
 ifTrueAction = [!move "(#flip# = 1 ? (#SCREENAREAWIDTH# - #CURRENTCONFIGWIDTH# - #paddingOuter#) : #paddingOuter#)" "#paddingOuter#"]
-updateDivider = -1
+updateDivider = 30
 dynamicVariables = 1
 
 ; styles
