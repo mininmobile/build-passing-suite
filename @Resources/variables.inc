@@ -11,6 +11,7 @@ color2 = 0, 0, 0
 
 paddingInner = 16
 paddingOuter = 16
+scale = 1
 
 automove = 1
 
