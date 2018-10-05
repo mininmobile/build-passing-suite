@@ -21,15 +21,18 @@ antiAlias = 1
 [icontentStyle]
 x = #paddingOuter#
 y = #paddingOuter#
+stringAlign = right
 fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color2#
 solidColor = #background2#
 padding = #paddingInner#, #paddingInner#, #paddingInner#, #paddingInner#
+dynamicVariables = 1
 antiAlias = 1
 
 [icontentStyle2]
 y = #paddingOuter#
+stringAlign = right
 fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color#
