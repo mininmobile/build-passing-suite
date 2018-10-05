@@ -2,7 +2,7 @@
 
 ; colors
 
-background = 0, 0, 0, 60
+background = 0, 0, 0, 100
 background2 = 200, 200, 200
 color = 250, 250, 250
 color2 = 0, 0, 0
@@ -18,4 +18,3 @@ automove = 1
 ; style
 
 font = roboto
-blur = 1
