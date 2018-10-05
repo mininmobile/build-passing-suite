@@ -13,8 +13,6 @@ paddingInner = 16
 paddingOuter = 16
 scale = 1
 
-automove = 1
-
 ; style
 
 font = roboto

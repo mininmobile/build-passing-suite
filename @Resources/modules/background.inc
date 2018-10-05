@@ -6,6 +6,7 @@ fontSize = (16 * #scale#)
 fontColor = #color#
 solidColor = #background#
 padding = #paddingInner#, #paddingInner#, #paddingInner#, #paddingInner#
+dynamicVariables = 1
 antiAlias = 1
 
 [contentStyle2]
