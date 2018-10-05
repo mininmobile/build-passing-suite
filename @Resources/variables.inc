@@ -16,3 +16,8 @@ scale = 1
 ; style
 
 font = roboto
+
+; misc
+
+; used for weather, leave as 0 to automatically get location
+locationCode = 0
