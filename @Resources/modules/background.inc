@@ -1,6 +1,7 @@
 [contentStyle]
 x = #paddingOuter#
 y = #paddingOuter#
+stringCase = #fontCasing#
 fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color#
@@ -11,6 +12,7 @@ antiAlias = 1
 
 [contentStyle2]
 y = #paddingOuter#
+stringCase = #fontCasing#
 fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color2#
@@ -23,6 +25,7 @@ antiAlias = 1
 x = #paddingOuter#
 y = #paddingOuter#
 stringAlign = right
+stringCase = #fontCasing#
 fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color2#
@@ -34,6 +37,7 @@ antiAlias = 1
 [icontentStyle2]
 y = #paddingOuter#
 stringAlign = right
+stringCase = #fontCasing#
 fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color#
