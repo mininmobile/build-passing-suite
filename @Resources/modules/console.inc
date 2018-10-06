@@ -26,11 +26,14 @@ fontSize = (32 * #scale#)
 fontColor = #color2#
 antiAlias = 1
 
-[textLauncherStyle]
+[linkStyle]
 x = r
 y = ((16 * #scale#) + (6 * #scale#))r
+prefix = "  "
 stringCase = #fontCasing#
 fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color2#
 antiAlias = 1
+mouseOverAction = [!setOption #CURRENTSECTION# prefix ">"][!update]
+mouseLeaveAction = [!setOption #CURRENTSECTION# prefix "  "][!update]

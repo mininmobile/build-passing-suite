@@ -3,11 +3,11 @@
 ; colors
 
 background = 0, 0, 0, 100
-background2 = 15, 15, 15
-;background2 = 200, 200, 200
+;background2 = 15, 15, 15
+background2 = 220, 220, 220
 color = 200, 200, 200
-color2 = 250, 250, 250
-;color2 = 0, 0, 0
+;color2 = 250, 250, 250
+color2 = 0, 0, 0
 
 ; size
 
@@ -20,6 +20,9 @@ consoleScale = 0.7
 
 font = roboto
 fontCasing = lower
+
+; player, enter a player from https://docs.rainmeter.net/manual/measures/nowplaying/#playerlist
+player = cad
 
 ; position, set to 1 to automatically position console
 automove = 1
