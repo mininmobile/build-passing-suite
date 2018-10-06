@@ -5,8 +5,8 @@
 background = 0, 0, 0, 100
 background2 = 15, 15, 15
 ;background2 = 200, 200, 200
-color = 250, 250, 250
-color2 = 200, 200, 200
+color = 200, 200, 200
+color2 = 250, 250, 250
 ;color2 = 0, 0, 0
 
 ; size
