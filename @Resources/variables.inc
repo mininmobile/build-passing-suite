@@ -14,7 +14,7 @@ color2 = 250, 250, 250
 paddingInner = 16
 paddingOuter = 16
 scale = 1
-consoleScale = 0.8
+consoleScale = 0.7
 
 ; style
 
@@ -26,3 +26,25 @@ automove = 1
 
 ; weather, leave location code as 0 to automatically get location
 locationCode = 0
+
+
+; launcher
+
+
+launcher1name = Notepad
+launcher1path = notepad
+
+launcher2name = Command Prompt
+launcher2path = cmd
+
+launcher3name = Paint
+launcher3path = mspaint
+
+launcher4name = Notepad
+launcher4path = notepad
+
+launcher5name = Command Prompt
+launcher5path = cmd
+
+launcher6name = Paint
+launcher6path = mspaint
