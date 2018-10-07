@@ -3,11 +3,11 @@
 ; colors
 
 background = 0, 0, 0, 100
-background2 = 15, 15, 15
-;background2 = 220, 220, 220
+;background2 = 15, 15, 15
+background2 = 220, 220, 220
 color = 200, 200, 200
-color2 = 250, 250, 250
-;color2 = 0, 0, 0
+;color2 = 250, 250, 250
+color2 = 0, 0, 0
 
 ; size
 
