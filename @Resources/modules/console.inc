@@ -77,7 +77,7 @@ fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color2#
 antiAlias = 1
-mouseOverAction = [!setOption #CURRENTSECTION# prefix ">"][!update]
+mouseOverAction = [!setOptionGroup link prefix ""][!setOption #CURRENTSECTION# prefix ">"][!update]
 mouseLeaveAction = [!setOption #CURRENTSECTION# prefix "  "][!update]
 
 [linkSelectedStyle]
