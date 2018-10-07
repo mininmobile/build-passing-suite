@@ -37,3 +37,8 @@ fontColor = #color2#
 antiAlias = 1
 mouseOverAction = [!setOption #CURRENTSECTION# prefix ">"][!update]
 mouseLeaveAction = [!setOption #CURRENTSECTION# prefix "  "][!update]
+
+[linkSelectedStyle]
+prefix = ">"
+mouseOverAction = [!setOption #CURRENTSECTION# prefix ">"][!update]
+mouseLeaveAction = [!setOption #CURRENTSECTION# prefix ">"][!update]

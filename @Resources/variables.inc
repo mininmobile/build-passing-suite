@@ -3,11 +3,11 @@
 ; colors
 
 background = 0, 0, 0, 100
-;background2 = 15, 15, 15
-background2 = 220, 220, 220
+background2 = 15, 15, 15
+;background2 = 220, 220, 220
 color = 200, 200, 200
-;color2 = 250, 250, 250
-color2 = 0, 0, 0
+color2 = 250, 250, 250
+;color2 = 0, 0, 0
 
 ; size
 
@@ -34,20 +34,20 @@ locationCode = 0
 ; launcher
 
 
-launcher1name = Notepad
-launcher1path = notepad
+launcher1name = Hyper Terminal
+launcher1path = ""C:\\Users\\M1n1n-\\AppData\\local\\hyper\\hyper.exe""
 
-launcher2name = Command Prompt
-launcher2path = cmd
+launcher2name = Visual Studio Code
+launcher2path = ""F:\\Program Files (x86)\\Microsoft VS Code\\Code.exe""
 
-launcher3name = Paint
-launcher3path = mspaint
+launcher3name = Visual Studio
+launcher3path = ""F:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Common7\\IDE\\devenv.exe""
 
-launcher4name = Notepad
-launcher4path = notepad
+launcher4name = Notepad++
+launcher4path = ""F:\\Program Files (x86)\\Notepad++\\Notepad++.exe""
 
-launcher5name = Command Prompt
-launcher5path = cmd
+launcher5name = Paint
+launcher5path = ""mspaint""
 
-launcher6name = Paint
-launcher6path = mspaint
+launcher6name = Games
+launcher6path = ""F:\\Stuff\\Games""
