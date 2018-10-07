@@ -26,6 +26,16 @@ fontSize = (32 * #scale#)
 fontColor = #color2#
 antiAlias = 1
 
+[textStyle]
+x = r
+y = ((16 * #scale#) + (6 * #scale#))r
+prefix = "  "
+stringCase = #fontCasing#
+fontFace = #font#
+fontSize = (16 * #scale#)
+fontColor = #color2#
+antiAlias = 1
+
 [linkStyle]
 x = r
 y = ((16 * #scale#) + (6 * #scale#))r
@@ -42,3 +52,11 @@ mouseLeaveAction = [!setOption #CURRENTSECTION# prefix "  "][!update]
 prefix = ">"
 mouseOverAction = [!setOption #CURRENTSECTION# prefix ">"][!update]
 mouseLeaveAction = [!setOption #CURRENTSECTION# prefix ">"][!update]
+
+; color settings
+
+[colorBox]
+x = r
+y = ((16 * #scale#) + (16 * #scale#))r
+boxOptions =  strokeColor 255, 255, 255 | strokeWidth 2
+solidColor = 255, 255, 255
