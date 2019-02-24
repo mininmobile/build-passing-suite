@@ -3,14 +3,15 @@
 ; colors
 
 background = 0, 0, 0, 100
-;background2 = 15, 15, 15
-background2 = 220, 220, 220
-color = 200, 200, 200
-;color2 = 250, 250, 250
-color2 = 0, 0, 0
+background2 = 0, 0, 0, 100
+;background2 = 240, 240, 240
+;color = 240, 240, 240
+color2 = 250, 250, 250
 
 ; size
 
+paddingInnerLeft = 0
+paddingInnerRight = 16
 paddingInner = 16
 paddingOuter = 16
 scale = 1
@@ -35,19 +36,19 @@ locationCode = 0
 
 
 launcher1name = Hyper Terminal
-launcher1path = ""C:\\Users\\M1n1n-\\AppData\\local\\hyper\\hyper.exe""
+launcher1path = ""C:\Users\M1n1n-\AppData\local\hyper\hyper.exe""
 
 launcher2name = Visual Studio Code
-launcher2path = ""F:\\Program Files (x86)\\Microsoft VS Code\\Code.exe""
+launcher2path = ""F:\Program Files (x86)\Microsoft VS Code\Code.exe""
 
 launcher3name = Visual Studio
-launcher3path = ""F:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Common7\\IDE\\devenv.exe""
+launcher3path = ""F:\Program Files (x86)\Microsoft Visual Studio\2017\Common7\IDE\devenv.exe""
 
 launcher4name = Notepad++
-launcher4path = ""F:\\Program Files (x86)\\Notepad++\\Notepad++.exe""
+launcher4path = ""F:\Program Files (x86)\Notepad++\Notepad++.exe""
 
-launcher5name = Paint
-launcher5path = ""mspaint""
+launcher5name = Paint.net
+launcher5path = ""C:\Program Files\paint.net\PaintDotNet.exe""
 
 launcher6name = Games
-launcher6path = ""F:\\Stuff\\Games""
+launcher6path = ""F:\Stuff\Games""

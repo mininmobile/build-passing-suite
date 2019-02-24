@@ -6,7 +6,7 @@ fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color#
 solidColor = #background#
-padding = #paddingInner#, #paddingInner#, #paddingInner#, #paddingInner#
+padding = #paddingInner#, #paddingInner#, #paddingInnerRight#, #paddingInner#
 dynamicVariables = 1
 antiAlias = 1
 
@@ -17,7 +17,7 @@ fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color2#
 solidColor = #background2#
-padding = #paddingInner#, #paddingInner#, #paddingInner#, #paddingInner#
+padding = #paddingInnerLeft#, #paddingInner#, #paddingInner#, #paddingInner#
 dynamicVariables = 1
 antiAlias = 1
 
@@ -30,7 +30,7 @@ fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color2#
 solidColor = #background2#
-padding = #paddingInner#, #paddingInner#, #paddingInner#, #paddingInner#
+padding = #paddingInner#, #paddingInner#, #paddingInnerLeft#, #paddingInner#
 dynamicVariables = 1
 antiAlias = 1
 
@@ -42,6 +42,6 @@ fontFace = #font#
 fontSize = (16 * #scale#)
 fontColor = #color#
 solidColor = #background#
-padding = #paddingInner#, #paddingInner#, #paddingInner#, #paddingInner#
+padding = #paddingInnerRight#, #paddingInner#, #paddingInner#, #paddingInner#
 dynamicVariables = 1
 antiAlias = 1
